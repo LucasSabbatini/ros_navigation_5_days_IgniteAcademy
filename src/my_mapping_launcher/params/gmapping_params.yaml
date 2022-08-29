@@ -1,0 +1,4 @@
+scan_topic: kobuki/laser/scan
+base_fram: base_footprint
+odom_frame: odom
+map_frame: map
